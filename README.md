@@ -55,6 +55,6 @@ I'm a recent graduate from **Carnegie Mellon University**, currently expanding m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belalmn&layout=compact&theme=radical)
 
 ## 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/belalmn)
+- [LinkedIn](https://www.linkedin.com/in/belalm)
 <!-- - [Portfolio](https://belalmn.github.io) -->
 
