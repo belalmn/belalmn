@@ -3,7 +3,7 @@
 I'm a recent graduate from **Carnegie Mellon University**, currently expanding my knowledge in **Machine Learning**, **Computer Vision**, and **Software Engineering**. I’m studying at the **University of British Columbia** while pursuing research opportunities and building out my portfolio to focus on cutting-edge ML/CV technologies.
 
 - 🌍 **Location**: Vancouver, Canada
-- 🎓 **Education**: BSc in Information Systems, CMU | Computer Science studies, UBC
+- 🎓 **Education**: BSc in Information Systems, CMU | Unclassified Computer Science Studies, UBC (Anticipating entry into 2nd BSc. in Computer Science Program Fall 2025)
 - 🏆 **Interests**: AI, Deep Learning, Computer Vision, Software Engineering
 - 📚 **Learning**: Neural Radiance Fields (NeRF), Feature Matching, Gaussian Splatting
 - 💼 **Looking for**: Research assistantships and ML Engineering roles
